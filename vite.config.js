@@ -1,17 +1,15 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
-import legacy from '@vitejs/plugin-legacy';
-import { terser } from 'rollup-plugin-terser';
 
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
   build: {
-    target: 'es2015',           // Modern JS syntax for better tree-shaking
-    minify: 'terser',           // Minify JS
+    target: 'es2015',      // Modern JS syntax
+    minify: 'terser',      // Use built-in terser for minification
     terserOptions: {
       compress: {
-        drop_console: true,     // Remove console.log in production
+        drop_console: true,  // Remove console.log in production
         drop_debugger: true
       }
     },
@@ -30,6 +28,6 @@ export default defineConfig({
     }
   },
   css: {
-    devSourcemap: false,
+    devSourcemap: false
   }
 });
