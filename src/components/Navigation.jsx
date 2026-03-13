@@ -20,7 +20,8 @@ const Navigation = () => {
     { path: '/media', label: 'Media' },
     { path: '/contact', label: 'Contact' },
     { path: '/faq', label: 'FAQ' }
-  ];
+  ];  
+  // dddddd
 
   useEffect(() => {
     const handleScroll = () => {
