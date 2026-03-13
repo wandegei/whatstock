@@ -1,15 +1,14 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
   build: {
-    target: 'es2015',      // Modern JS syntax
-    minify: 'terser',      // Use built-in terser for minification
+    target: 'es2015',
+    minify: 'terser',
     terserOptions: {
       compress: {
-        drop_console: true,  // Remove console.log in production
+        drop_console: true,
         drop_debugger: true
       }
     },
