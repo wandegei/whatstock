@@ -9,7 +9,6 @@
   "scripts": {
     "dev": "vite --host :: --port 3000",
     "build": "vite build",
-    "vercel-build": "npm install --include=dev && vite build",
     "preview": "vite preview --host :: --port 3000",
     "lint": "eslint . --quiet",
     "lint:warn": "eslint ."
