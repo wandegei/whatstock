@@ -21,7 +21,7 @@ const Navigation = () => {
     { path: '/contact', label: 'Contact' },
     { path: '/faq', label: 'FAQ' }
   ];  
-  // dddddd
+  // dddddd rrrrr
 
   useEffect(() => {
     const handleScroll = () => {
