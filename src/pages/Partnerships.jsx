@@ -73,7 +73,7 @@ const Partnerships = () => {
              <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex items-end p-8">
                <div className="text-white">
                  <h3 className="text-2xl font-bold mb-2">TechCorp Alliance</h3>
-                 <p>"Partnering with Whatstock Business doubled our service inquiries in 6 months."</p>
+                 <p>"Partnering with Mogg Gadgets Uganda doubled our service inquiries in 6 months."</p>
                </div>
              </div>
            </div>

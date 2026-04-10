@@ -7,7 +7,7 @@ const TermsConditions = () => {
         <h1 className="text-4xl font-bold text-gray-900 mb-8">Terms & Conditions</h1>
         <div className="prose prose-lg text-gray-600">
           <p>Last updated: February 6, 2026</p>
-          <p>Please read these Terms and Conditions carefully before using the https://Whatstock Businesss.com website operated by Whatstock Businesss.</p>
+          <p>Please read these Terms and Conditions carefully before using the https://Mogg Gadgets Uganda.com website operated by Mogg Gadgets Uganda.</p>
           <h3>1. Acceptance of Terms</h3>
           <p>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms.</p>
         </div>

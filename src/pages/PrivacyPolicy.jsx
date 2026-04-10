@@ -7,7 +7,7 @@ const PrivacyPolicy = () => {
         <h1 className="text-4xl font-bold text-gray-900 mb-8">Privacy Policy</h1>
         <div className="prose prose-lg text-gray-600">
           <p>Last updated: February 6, 2026</p>
-          <p>We value your privacy very highly. Please read this Privacy Policy carefully before using the https://Whatstock Business.com website operated by Whatstock Business.</p>
+          <p>We value your privacy very highly. Please read this Privacy Policy carefully before using the https://Mogg Gadgets Uganda.com website operated by Mogg Gadgets Uganda.</p>
           <h3>1. Data Collection</h3>
           <p>We collect information you provide directly to us.</p>
           <h3>2. Use of Data</h3>

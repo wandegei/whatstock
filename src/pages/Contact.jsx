@@ -28,7 +28,7 @@ const Contact = () => {
                  </div>
                  <div>
                    <h3 className="font-bold text-lg">Email Us</h3>
-                   <p className="text-gray-600">hello@Whatstock Business.com<br/>support@Whatstock Business.com</p>
+                   <p className="text-gray-600">hello@WMogg Gadgets Uganda.com<br/>support@WMogg Gadgets Uganda.com</p>
                  </div>
                </div>
             </div>

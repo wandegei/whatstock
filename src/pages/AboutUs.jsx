@@ -28,7 +28,7 @@ const AboutUs = () => {
           className="text-center mb-24"
         >
           <motion.h1 variants={itemVariants} className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-            We Are <span className="text-primary">Whatstock Business</span>
+            We Are <span className="text-primary">Mogg Gadgets Uganda</span>
           </motion.h1>
           <motion.p variants={itemVariants} className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
             We connect businesses across the full supply chain  from wholesalers to retailers to end consumers building trusted partnerships that drive sustainable growth and long-term success.
@@ -91,7 +91,7 @@ const AboutUs = () => {
 
         {/* Team Section */}
         <div className="mb-24">
-          <h2 className="text-3xl font-bold text-center mb-12">Why We Established Whatstock Business</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">Why We Established Mogg Gadgets Uganda</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {team.map((member, index) => (
               <motion.div

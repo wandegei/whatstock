@@ -52,14 +52,14 @@ B2B Solutions*/}
             <Link to="/" className="flex items-center gap-2 group">
               <div className="bg-primary p-2 rounded-xl group-hover:bg-primary/90 transition-colors shadow-glow">
                 <img
-                  src="https://svxrsjrkghluzxwtmjvt.supabase.co/storage/v1/object/public/HamImages/whatsstockimages/WhatsApp%20Image%202026-03-04%20at%2012.12.46%20PM.jpeg"
-                  alt="Whatstock Business Logo"
+                  src="https://cwvfozdugyzkzalbrhpo.supabase.co/storage/v1/object/public/service-images/Mk1.png"
+                  alt="Mogg Gadgets Uganda Logo"
                   className="w-6 h-6 object-contain"
                 />
               </div>
               <div className="flex flex-col">
                 <span className="font-heading font-bold text-xl text-gray-900 leading-tight">
-                  Whatstock Business
+                  Mogg Gadgets Uganda
                 </span>
                 <span className="text-[10px] text-secondary font-bold tracking-wider uppercase">
                   B2B Support

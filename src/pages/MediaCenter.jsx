@@ -19,7 +19,7 @@ const MediaCenter = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">Media Center</h1>
-          <p className="text-xl text-gray-600">News, photos, and updates from Whatstock Business.</p>
+          <p className="text-xl text-gray-600">News, photos, and updates from Mogg Gadgets Uganda.</p>
         </div>
 
         {/* Tabs */}
@@ -66,7 +66,7 @@ const MediaCenter = () => {
              <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 flex justify-between items-center">
                <div>
                  <div className="text-sm text-secondary font-bold mb-1">Feb 2026</div>
-                 <h3 className="font-bold text-gray-900">Whatstock Business Announces New Global HQ</h3>
+                 <h3 className="font-bold text-gray-900">Mogg Gadgets Uganda Announces New Global HQ</h3>
                </div>
                <Button variant="ghost" size="sm">Read</Button>
              </div>
